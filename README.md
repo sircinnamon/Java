@@ -1,2 +1,2 @@
-# Java
-Small java programs for personal use
+# Pairing
+Java programs testing pairing functions used in computability theory
